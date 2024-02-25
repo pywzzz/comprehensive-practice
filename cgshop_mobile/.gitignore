@@ -1,0 +1,11 @@
+#默认忽略所有文件  
+/*
+
+#不忽略的
+!/public 
+!/src
+!.gitignore 
+!jsconfig.json
+!package.json
+!package-lock.josn
+!README.md

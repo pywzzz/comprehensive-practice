@@ -1,0 +1,11 @@
+#配置忽略规则 的
+#默认忽略所有文件
+/*
+
+#配置不忽略的文件  通过! 开头指明
+!/src
+!.gitignore
+!pom.xml
+!readme.md
+!/assets
+!/db

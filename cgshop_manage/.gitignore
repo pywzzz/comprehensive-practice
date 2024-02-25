@@ -1,0 +1,11 @@
+#配置忽略的  默认忽略所有的
+/*  
+
+#配置不忽略的 
+!/public
+!/src
+!.gitignore
+!jsconfig.jso
+!package.json
+!package-lock.json
+!README.md
